@@ -1,5 +1,10 @@
 # Banking Application 🏦
-This repository contains a Java-based banking application that allows users to perform various banking operations, including creating accounts ✔️, making deposits 💰, withdrawals 💸, and scheduling transfers 📅.
+🧱 This repository hosts a Java-based banking application designed for educational purposes. It enables users to practice various banking operations, such as:
+
+- Creating accounts ✔️
+- Making deposits 💰
+- Withdrawing funds 💸
+- Transferring between accounts 📅
 
 # Features 🌟
 - Account Creation: Users can create new bank accounts with unique account numbers and personal information.
