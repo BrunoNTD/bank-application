@@ -18,4 +18,5 @@ Contributions to this banking application are welcome. Feel free to fork the rep
 # License 📜
 This project is licensed under the **MIT License**.
 
+# Project 🎀
 ![image](https://github.com/BrunoNTD/bank-application/assets/116700259/1028531e-ffe1-4aa0-9123-36b9d7fde4af)
